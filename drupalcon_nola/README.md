@@ -2,5 +2,6 @@
 ***
 ### Attended talks
 
-- daksjfh asdf
-- kasjdhf
+- Keynote
+- Decoupled Drupal
+- Angular 2 and Drupal
