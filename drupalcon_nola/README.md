@@ -1,5 +1,5 @@
 # DrupalCon 2016 New Orleans
-***
+
 ### Attended talks
 
 - Keynote
