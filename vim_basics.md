@@ -20,6 +20,8 @@
 * `<` and `>` indent lines, `=` auto-indent
 * `V` visual line
 * `:split` and `:vsplit`, `<ctrl+w+_>` maximize split, `<ctrl+w++>` grow split (`-`)
+* `G` goes to the end of the file
+
 
 ### Moving within the screen
 * `H`: move to the top of the screen
