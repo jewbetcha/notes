@@ -57,3 +57,6 @@
   * will be framework agnostic
   * pathing of components is simple
   * components can be contextually aware
+* Use cases
+  * Commerce
+  * User-driven content

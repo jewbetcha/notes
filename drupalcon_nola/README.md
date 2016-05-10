@@ -2,7 +2,6 @@
 
 ### Attended talks
 
-- Keynote
-- Decoupled Drupal
-- Angular 2 and Drupal
-- 
+- Progressively Decoupled Drupal
+- Building Rich Apps with Angular 2 and Drupal
+-
