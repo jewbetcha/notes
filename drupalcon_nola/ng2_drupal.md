@@ -15,7 +15,6 @@
   * payload sensitive
 * Loading Angular within Drupal
   * native approach demo
-    * **js-exploration module**
     * ng2 renders comments
     * module determines library dependencies
       * dependencies go in `yml` file
@@ -24,4 +23,10 @@
       * ng2 components
   * Progressively Decoupled blocks demo
     * only loads framework if you have a component block on the page
-    * 
+* The Future
+  * clone PDB (decoupled blocks) repo into modules folder
+  * find examples in there
+  * build components
+* Progressive web app (google)
+  * allows browser to use the site as an application
+* @stephenfluin 

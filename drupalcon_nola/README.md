@@ -4,4 +4,4 @@
 
 - Progressively Decoupled Drupal
 - Building Rich Apps with Angular 2 and Drupal
--
+- Ember Components
