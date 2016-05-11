@@ -26,4 +26,3 @@
   * use gulp to do constantly recreate
 * budgeting for performance
   * sitespeed.io
-* 
