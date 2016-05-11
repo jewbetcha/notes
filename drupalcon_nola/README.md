@@ -6,3 +6,4 @@
 - Building Rich Apps with Angular 2 and Drupal
 - Ember Components
 - Pattern-lab and twig
+- Six Easy Pieces for the New Front-end Development
