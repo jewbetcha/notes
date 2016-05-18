@@ -6,7 +6,7 @@
     * doctor - getting information, not wanting to wait for internet
   * site deployed to web, just for editors
   * native mobile apps using API
-* tech
+* tech stack
   * D8 - modules
     * **deploy** module
     * Multiversion
@@ -25,3 +25,4 @@
     * redux - unidirectional flow
 * Architecture
   * D8 > RELAXed module/CouchDB > PouchDB > ReactJS
+* didn't actually learn that much, could have been better
