@@ -25,7 +25,7 @@
         var res = jQuery.parseJSON(response.responseText);
         console.log(res);
       }
-    })
+    });
   ```
 * what is a JS closure?
   * a function defined inside another function, and has access to variables that are declared and defined in the parent function scope
@@ -42,4 +42,14 @@
   something();     // 'Bob'
   ```
 * what is a JS prototype?
-  *
+  * all JS objects inherit properties and methods from their prototype. create an object prototype with a constructor function.
+  * ex:
+  ```
+  function Person(first, last, age, eyecolor) {
+      this.firstName = first;
+      this.lastName = last;
+      this.age = age;
+      this.eyeColor = eyecolor;
+  }
+  ```
+* More study stuff https://github.com/dxhackers/JSStudyGuide
