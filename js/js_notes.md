@@ -10,6 +10,36 @@
   * dataType
   * success
   * error
+  * async
+  * ex:
+  ```
+  $.ajax({
+      url: "google.com",
+      type: "GET",
+      dataType: "JSON",
+      async: true,
+      success: function (data) {
+        console.log(data)
+      },
+      error: function (response) {
+        var res = jQuery.parseJSON(response.responseText);
+        console.log(res);
+      }
+    })
+  ```
 * what is a JS closure?
   * a function defined inside another function, and has access to variables that are declared and defined in the parent function scope
-* 
+  * ex:
+  ```
+  function outer() {
+      var name = "Bob";
+      function inner() {
+          console.log(name);    // 'Bob'
+      }
+      return inner;
+  }
+  var something = outer();
+  something();     // 'Bob'
+  ```
+* what is a JS prototype?
+  *
