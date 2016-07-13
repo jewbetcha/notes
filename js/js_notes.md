@@ -66,7 +66,7 @@
         // or server returns response with an error status.
   });
   ```
-  * setting up an angular app:
+* setting up an angular app:
 
   ```
   var app = angular.module("app");
