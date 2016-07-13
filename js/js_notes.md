@@ -53,10 +53,9 @@
   }
   ```
 * More study stuff https://github.com/dxhackers/JSStudyGuide
-* $http in Angular
+* $http api call in Angular
   * ex:
   ```
-
     $http({
       method: 'GET',
       url: '/someUrl'
@@ -66,4 +65,14 @@
         // called asynchronously if an error occurs
         // or server returns response with an error status.
   });
+  ```
+  * setting up an angular app:
+
+  ```
+  var app = angular.module("app");
+
+  app.controller("mainController", ['$scope', function($scope) {
+      // do scope things here
+    }
+  ]);
   ```
