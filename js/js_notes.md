@@ -53,3 +53,17 @@
   }
   ```
 * More study stuff https://github.com/dxhackers/JSStudyGuide
+* $http in Angular
+  * ex:
+  ```
+
+    $http({
+      method: 'GET',
+      url: '/someUrl'
+    }).then(function (data)) {
+        $scope.something = data;
+      }, function errorCallback(response) {
+        // called asynchronously if an error occurs
+        // or server returns response with an error status.
+  });
+  ```
